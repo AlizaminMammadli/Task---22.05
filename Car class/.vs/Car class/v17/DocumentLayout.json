@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Code\\C\\Car class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5609001-5B76-4C05-8BBA-D920FC1F971E}|Car class\\Car class.csproj|c:\\users\\dell\\desktop\\code\\c\\car class\\car class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5609001-5B76-4C05-8BBA-D920FC1F971E}|Car class\\Car class.csproj|solutionrelative:car class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5609001-5B76-4C05-8BBA-D920FC1F971E}|Car class\\Car class.csproj|c:\\users\\dell\\desktop\\code\\c\\car class\\car class\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5609001-5B76-4C05-8BBA-D920FC1F971E}|Car class\\Car class.csproj|solutionrelative:car class\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Code\\C\\Car class\\Car class\\Car.cs",
+              "RelativeDocumentMoniker": "Car class\\Car.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Code\\C\\Car class\\Car class\\Car.cs",
+              "RelativeToolTip": "Car class\\Car.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBIAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:33:29.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Code\\C\\Car class\\Car class\\Program.cs",
+              "RelativeDocumentMoniker": "Car class\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Code\\C\\Car class\\Car class\\Program.cs",
+              "RelativeToolTip": "Car class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T23:32:33.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
